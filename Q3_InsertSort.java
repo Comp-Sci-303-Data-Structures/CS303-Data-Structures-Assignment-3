@@ -4,8 +4,7 @@ import java.util.LinkedList;
  * Question 3:
  *
  * Because LinkedList supports index-based get/set in O(n) time, the overall
- * complexity is O(n²) – the same as the array version – but it operates
- * directly on the linked list without copying to an array.
+ * complexity is O(n²)
  */
 public class Q3_InsertSort {
 
